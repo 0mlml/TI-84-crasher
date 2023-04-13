@@ -1,0 +1,4 @@
+""→Str1
+While 1
+Send(Str1)
+End
